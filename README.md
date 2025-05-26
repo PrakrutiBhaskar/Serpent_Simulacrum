@@ -28,7 +28,7 @@ A classic **Snake Game** built using [p5.js](https://p5js.org/). Eat food, grow 
 
 snake-game/
 ├── index.html # HTML file for canvas setup
-├── style.css # (optional) Styling
-├── sketch.js # Main game logic (your current code)
-├── snake.js # Snake class (needs to be added if not yet)
+├── style.css # Styling
+├── sketch.js # Main game logic 
+├── snake.js # Snake class
 └── README.md # This file
